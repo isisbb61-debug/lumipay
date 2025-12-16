@@ -1,0 +1,3 @@
+Site: Lumipay
+Purpose: Financial information & consumer education
+Domain: https://lumipay.pages.dev
